@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **Full stack , Python and JAVA with DSA**
+- 🌱 I’m am  **Full stack , Python Developer also knowledge of Java and Testing**
 
-- 💬 Ask me about **front-end development,c++ and java**
+- 💬 Ask me about **Django, and SQL**
 
-- 📫 How to reach me **arnab2482001@gmail.com**
+- 📫 How to reach me **arnab1234chatterjee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
