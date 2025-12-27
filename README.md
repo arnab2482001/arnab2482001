@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab2482001" alt="arnab2482001" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Python full stack project**
 
 - 🌱 I’m am  **Full stack , Python Developer also knowledge of Java and Testing**
 
