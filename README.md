@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python full stack project**
 
-- 🌱 I’m am  **Full stack , Python Developer also knowledge of Java and Testing**
+- 🌱 I’m  **Full stack , Python Developer also knowledge of Java and Testing**
 
 - 💬 Ask me about **Django, and SQL**
 
